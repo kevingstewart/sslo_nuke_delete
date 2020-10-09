@@ -12,6 +12,8 @@ This utility works on BIG-IP 14.1 and above, SSL Orchestrator 5.x and above.
   `curl -k https://raw.githubusercontent.com/kevingstewart/sslo_nuke_delete/main/sslo_nuke_delete.sh -o sslo_nuke_delete.sh`
   
   `chmod +x sslo_nuke_delete.sh`
+  
+  `./sslo_nuke_delete.sh`
 
 - Run the script more than once if any errors are returned.
 
